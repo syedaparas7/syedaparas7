@@ -1,7 +1,7 @@
-- 👋 Hello, I am syeda paras
-- 👀 I’m interested in web and mobile development 
-- 🌱 I’m currently learning web and mobile development.
-- 💞️ I am looking to collaborate on web and mobile development...
+- 👋 Hello, I am Paras bukhari
+- 👀 I am interested in web and mobile development 
+- 🌱 I am persuaing Web and Mobile Appilication Development.
+- 💞️ I am looking to collaborate on Web and Mobile Appilication Development....
   
 
 <!---
